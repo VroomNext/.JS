@@ -60,8 +60,7 @@ const Home: React.FC = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, delay: 0.2 }}
       >
-        {/* Animated glow effect */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[500px] h-[500px] bg-purple-600/30 rounded-full blur-[100px] z-[4] hero-glow" />
+
         <div className="container relative mx-auto px-4 z-[5]">
           <div className="text-center mb-10">
             <h1 className="text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-300">

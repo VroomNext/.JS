@@ -960,84 +960,75 @@ const Home = ()=>{
                     duration: 0.8,
                     delay: 0.2
                 },
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute top-0 left-1/2 -translate-x-1/2 w-[500px] h-[500px] bg-purple-600/30 rounded-full blur-[100px] z-[4] hero-glow"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Home.tsx",
-                        lineNumber: 64,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "container relative mx-auto px-4 z-[5]",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "text-center mb-10",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-300",
-                                        children: "Transform Your Car Photography"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Home.tsx",
-                                        lineNumber: 67,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-lg text-gray-300 max-w-2xl mx-auto",
-                                        children: "Professional color grading that turns ordinary car photos into showroom-quality imagery with just one click."
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Home.tsx",
-                                        lineNumber: 70,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/components/Home.tsx",
-                                lineNumber: 66,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "max-w-2xl mx-auto mb-8",
-                                id: "before-after",
-                                style: {
-                                    scrollMarginTop: '80px'
-                                },
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
-                                        src: "/slider.html",
-                                        title: "Before After Slider",
-                                        className: "w-full aspect-video border-none rounded-lg shadow-lg",
-                                        style: {
-                                            height: 'auto',
-                                            minHeight: '300px'
-                                        }
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Home.tsx",
-                                        lineNumber: 76,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-center mt-3 text-gray-400",
-                                        children: "Drag the slider to see the dramatic difference our premium LUTs make."
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Home.tsx",
-                                        lineNumber: 82,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/components/Home.tsx",
-                                lineNumber: 75,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/src/components/Home.tsx",
-                        lineNumber: 65,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "container relative mx-auto px-4 z-[5]",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "text-center mb-10",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                    className: "text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-300",
+                                    children: "Transform Your Car Photography"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Home.tsx",
+                                    lineNumber: 66,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "text-lg text-gray-300 max-w-2xl mx-auto",
+                                    children: "Professional color grading that turns ordinary car photos into showroom-quality imagery with just one click."
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Home.tsx",
+                                    lineNumber: 69,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/Home.tsx",
+                            lineNumber: 65,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "max-w-2xl mx-auto mb-8",
+                            id: "before-after",
+                            style: {
+                                scrollMarginTop: '80px'
+                            },
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
+                                    src: "/slider.html",
+                                    title: "Before After Slider",
+                                    className: "w-full aspect-video border-none rounded-lg shadow-lg",
+                                    style: {
+                                        height: 'auto',
+                                        minHeight: '300px'
+                                    }
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Home.tsx",
+                                    lineNumber: 75,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "text-center mt-3 text-gray-400",
+                                    children: "Drag the slider to see the dramatic difference our premium LUTs make."
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/Home.tsx",
+                                    lineNumber: 81,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/Home.tsx",
+                            lineNumber: 74,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/Home.tsx",
+                    lineNumber: 64,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
                 fileName: "[project]/src/components/Home.tsx",
                 lineNumber: 57,
                 columnNumber: 7
@@ -1067,22 +1058,22 @@ const Home = ()=>{
                                 description: feature.description
                             }, index, false, {
                                 fileName: "[project]/src/components/Home.tsx",
-                                lineNumber: 100,
+                                lineNumber: 99,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/components/Home.tsx",
-                        lineNumber: 98,
+                        lineNumber: 97,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/Home.tsx",
-                    lineNumber: 97,
+                    lineNumber: 96,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Home.tsx",
-                lineNumber: 91,
+                lineNumber: 90,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].section, {
@@ -1111,7 +1102,7 @@ const Home = ()=>{
                                     children: "Products"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Home.tsx",
-                                    lineNumber: 119,
+                                    lineNumber: 118,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -1123,19 +1114,19 @@ const Home = ()=>{
                                             className: "ml-2 w-4 h-4"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Home.tsx",
-                                            lineNumber: 121,
+                                            lineNumber: 120,
                                             columnNumber: 24
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Home.tsx",
-                                    lineNumber: 120,
+                                    lineNumber: 119,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 118,
+                            lineNumber: 117,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1144,23 +1135,23 @@ const Home = ()=>{
                                     product: product
                                 }, product.id, false, {
                                     fileName: "[project]/src/components/Home.tsx",
-                                    lineNumber: 126,
+                                    lineNumber: 125,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 124,
+                            lineNumber: 123,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Home.tsx",
-                    lineNumber: 117,
+                    lineNumber: 116,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Home.tsx",
-                lineNumber: 111,
+                lineNumber: 110,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].section, {
@@ -1185,7 +1176,7 @@ const Home = ()=>{
                             children: "Why Choose Us"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 139,
+                            lineNumber: 138,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1199,12 +1190,12 @@ const Home = ()=>{
                                                 className: "text-brand-purple text-xl"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Home.tsx",
-                                                lineNumber: 144,
+                                                lineNumber: 143,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Home.tsx",
-                                            lineNumber: 143,
+                                            lineNumber: 142,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1212,7 +1203,7 @@ const Home = ()=>{
                                             children: feature.title
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Home.tsx",
-                                            lineNumber: 146,
+                                            lineNumber: 145,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1220,29 +1211,29 @@ const Home = ()=>{
                                             children: feature.description
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Home.tsx",
-                                            lineNumber: 147,
+                                            lineNumber: 146,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, index, true, {
                                     fileName: "[project]/src/components/Home.tsx",
-                                    lineNumber: 142,
+                                    lineNumber: 141,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 140,
+                            lineNumber: 139,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Home.tsx",
-                    lineNumber: 138,
+                    lineNumber: 137,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Home.tsx",
-                lineNumber: 132,
+                lineNumber: 131,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].section, {
@@ -1271,23 +1262,23 @@ const Home = ()=>{
                             children: "Share Your Experience"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 161,
+                            lineNumber: 160,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ReviewForm$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                             fileName: "[project]/src/components/Home.tsx",
-                            lineNumber: 162,
+                            lineNumber: 161,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Home.tsx",
-                    lineNumber: 160,
+                    lineNumber: 159,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/Home.tsx",
-                lineNumber: 154,
+                lineNumber: 153,
                 columnNumber: 7
             }, this)
         ]
